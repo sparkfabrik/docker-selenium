@@ -2,7 +2,7 @@
 # NOTE: DO *NOT* EDIT THIS FILE.  IT IS GENERATED.
 # PLEASE UPDATE Dockerfile.txt INSTEAD OF THIS FILE
 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-FROM sparkfabrik/node-chrome:3.8.1-2.35
+FROM sparkfabrik/selenium-node-chrome:3.8.1-2.35
 LABEL authors=SeleniumHQ
 
 USER seluser
